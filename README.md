@@ -16,11 +16,11 @@ You can upload images, videos, or use your webcam to detect objects in real time
 ##  Demo Results
 
 ###  Image Detection Examples
-![Example 1](examples/detected_image.jpg)
+<img src="examples/detected_image.jpg" width="400"/>
 
-![Example 2]("examples/detected_image(1).jpg")
+<img src="examples/detected_image(1).jpg" width="400"/>
 
-![Example 2](examples\detected_image(2).jpg)
+<img src="examples/detected_image(2).jpg" width="400"/>
 
 ##  Requirements
 
